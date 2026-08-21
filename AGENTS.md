@@ -19,7 +19,7 @@ Este repositorio e a central de producao digital do projeto. Ele guarda o padrao
 3. Preferir dividir o trabalho em skills pequenas e especificas em vez de uma skill generica "faca tudo".
 4. Cada skill deve declarar objetivo, processo em etapas e regras no seu SKILL.md, seguindo o formato abaixo (bloco de exemplo, nao e YAML executavel):
 
-\`\`\`
+```
 ---
 name: nome-da-skill
 description: o que ela faz, em uma frase.
@@ -30,7 +30,7 @@ description: o que ela faz, em uma frase.
 1. ...
 # Regras
 - ...
-\`\`\`
+```
 
 5. Quem cria o material nao deveria ser o unico responsavel por revisa-lo - sempre que possivel, use uma skill de revisao separada antes de publicar.
 6. Novos produtos devem seguir a estrutura de produtos/<nome-do-produto>/ com briefing.md, fontes/, materiais/, imagens/, mockups/ e landing-page/.

@@ -4,7 +4,9 @@
 
 ## Nome da marca / produto
 
-[preencher: ex. Marcelo Mapas]
+Marcelo Mapas
+
+Nome comercial complementar: Mapas e Resumos
 
 ## Nicho
 
@@ -12,7 +14,7 @@ Producao de material didatico para concursos publicos e provas de Direito: resum
 
 ## Missao
 
-[preencher: por que esse conteudo existe, que problema ele resolve para quem estuda]
+Transformar conteudos complexos em materiais visuais, claros e objetivos, ajudando estudantes a compreender, memorizar e revisar mais rapido para provas, concursos e exames profissionais.
 
 ## Publico-alvo
 
@@ -26,6 +28,10 @@ Producao de material didatico para concursos publicos e provas de Direito: resum
 - Visual limpo, sem poluicao
 - Informacoes hierarquizadas (do mais geral para o mais especifico)
 - Elementos didaticos: icones, quadros, setas, mapas, destaques
+- Layout em colunas (normalmente 2 colunas por pagina), cabecalho no topo com logo a esquerda, titulo do tema centralizado e numero da pagina em faixa diagonal colorida no canto superior direito
+- Blocos de conteudo com fundo colorido (bege, vinho claro) alternando com blocos de fundo branco com borda, para variar a leitura visual entre secoes
+- Icones de check coloridos dentro de circulo marcando itens de lista, com linha vertical conectando os itens
+- Ilustracoes de personagens (juizes, advogados etc.) e icones tematicos para arejar o conteudo juridico
 
 ## Regras por tipo de material
 
